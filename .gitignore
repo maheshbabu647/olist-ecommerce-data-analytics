@@ -1,0 +1,15 @@
+# Dataset files
+data/raw/
+data/processed/
+
+#python
+__pycache__/
+.ipynb_checkpoints/
+venv/
+
+#Environment variables
+.env
+
+#os files
+.DS_Store
+Thumbs.db
